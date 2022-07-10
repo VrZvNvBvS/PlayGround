@@ -1,0 +1,29 @@
+* {
+    margin-top: 35px;
+    background-color: whitesmoke;
+    margin: 0;
+    padding: 0;
+  }
+  h1 {
+    font-size: 48px;
+    font-family: "Balsamiq sans", cursive;
+    text-align: center;
+  }
+  .container {
+    width: 1100px;
+  
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+  }
+  .boxes {
+    width: 150px;
+    height: 150px;
+  
+    border: 5px solid black;
+  
+    margin: 25px;
+    background-color: aqua;
+  }
+  
